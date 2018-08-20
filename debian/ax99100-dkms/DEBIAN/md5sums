@@ -1,0 +1,12 @@
+08a13b14c8f72c03fd11fb0c2a34a754  usr/share/doc/ax99100-dkms/changelog.gz
+6d6fbcdca00a273d6bbeb48813533a4e  usr/src/ax99100-1.0.0/Makefile
+37eb9e4049d07ec6ec210b880461baac  usr/src/ax99100-1.0.0/advanced_BR.c
+7ee2e5c42d5c7832712643fda2d13439  usr/src/ax99100-1.0.0/ax99100
+329fbfa65513a40a06082fd16101e936  usr/src/ax99100-1.0.0/ax99100.c
+6c29be9760dffb094539b7cc7f9b8204  usr/src/ax99100-1.0.0/ax99100.h
+cf00ce5333ea08a80a202b583c70de93  usr/src/ax99100-1.0.0/dkms.conf
+1de2a22734630a79ce454b63e555f9fb  usr/src/ax99100-1.0.0/gpio_99100.c
+a7f831dd0e7da6cc662e663033bd36b2  usr/src/ax99100-1.0.0/ioctl.h
+871a068c162a321565ed7eda591dca0b  usr/src/ax99100-1.0.0/parport_pc.c
+0e73775a463e55fb47469d850d2e97b1  usr/src/ax99100-1.0.0/readme
+d7486f20059334e33609c09f8aaead88  usr/src/ax99100-1.0.0/select_BR.c
