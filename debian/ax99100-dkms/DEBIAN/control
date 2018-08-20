@@ -1,9 +1,0 @@
-Package: ax99100-dkms
-Version: 1.0.0
-Architecture: all
-Maintainer: Mario Izquierdo (mariodebian) <mariodebian@gmail.com>
-Installed-Size: 229
-Depends: dkms
-Section: misc
-Priority: optional
-Description: ax99100 driver in DKMS format.
