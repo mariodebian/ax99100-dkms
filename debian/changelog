@@ -1,3 +1,9 @@
+ax99100-dkms (1.0.0.mario2) unstable; urgency=medium
+
+  * Disable versbose shutdown
+
+ -- Mario Izquierdo (mariodebian) <mariodebian@gmail.com>  Mon, 17 Sep 2018 08:48:01 +0200
+
 ax99100-dkms (1.0.0.mario1) unstable; urgency=medium
 
   * Initial version
