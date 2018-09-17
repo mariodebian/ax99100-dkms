@@ -1731,7 +1731,7 @@ static void serial99100_shutdown(struct uart_port *port)
         DEBUG("mapbase is 0x%x\n",up->port.mapbase);
         DEBUG("iobase is 0x%x\n",up->port.iobase);
 
-	printk("No of Errors In ttyF%d brake=%d frame=%d parity=%d overrun=%d\n",
+	DEBUG("No of Errors In ttyF%d brake=%d frame=%d parity=%d overrun=%d\n",
 		port->line, 
 		port->icount.brk,
 		port->icount.frame,
